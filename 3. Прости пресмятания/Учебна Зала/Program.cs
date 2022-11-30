@@ -6,6 +6,8 @@ namespace Учебна_Зала
     {
         static void Main(string[] args)
         {
+            // This task hasn't been finished yet!
+
             int h = int.Parse(Console.ReadLine());
             double w = double.Parse(Console.ReadLine());
 
